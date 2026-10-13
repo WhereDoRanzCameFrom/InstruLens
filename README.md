@@ -1,7 +1,7 @@
 # InstruLens: 3D Augmented Reality Musical Instrument Exploration Application
 InstruLens is an innovative, interactive Augmented Reality (AR) mobile application designed to bridge the gap between traditional music education and modern immersive technology. Built using the Unity engine, the platform transforms static physical markers—such as specialized QR codes—into dynamic, multi-dimensional learning environments. The application aims to solve the lack of engagement in conventional music pedagogy by allowing users to visualize, interact with, and study high-fidelity 3D models of musical instruments directly in their real-world surroundings.
 
-# *Source code utama dari projek ini disimpan di repositori privat untuk alasan keamanan dan hak cipta.*
+# *The main source code of this project is stored in a private repository for security and copyright reasons.*
 
 📌 DEMO
 # Work Page:
