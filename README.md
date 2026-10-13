@@ -5,22 +5,31 @@ InstruLens is an innovative, interactive Augmented Reality (AR) mobile applicati
 📌 DEMO
 # Work Page:
 <img width="1916" height="967" alt="Work Page" src="https://github.com/user-attachments/assets/4ffb553e-8fb1-4c6c-a591-50180fe82731" />
+
 # 3D Object:
 <img width="1917" height="986" alt="3D Object" src="https://github.com/user-attachments/assets/7f836fcb-45c4-48ab-b29d-6a5115fc7b3d" />
+
 # Home Page:
 <img width="434" height="768" alt="Home Page" src="https://github.com/user-attachments/assets/e9898b0c-8e08-4d0e-821f-6d09fd87bd68" />
+
 # Learn 1:
 <img width="427" height="757" alt="Learn Page 1" src="https://github.com/user-attachments/assets/faa1caa3-5c1e-4ca5-a1cf-81bf7197bbf9" />
+
 # Learn 2:
 <img width="425" height="760" alt="Learn Page 2" src="https://github.com/user-attachments/assets/74ee402b-4378-4c56-9226-f04b129dbdfc" />
+
 # Learn 3:
 <img width="427" height="760" alt="Learn Page 3" src="https://github.com/user-attachments/assets/c2e54d90-50ed-4204-9080-2eca88cdbfbd" />
+
 # Learn 4:
 <img width="425" height="760" alt="Learn Page 4" src="https://github.com/user-attachments/assets/e3513502-894b-4fef-a07e-0d853e84bda7" />
+
 # Scanning Page:
 <img width="431" height="758" alt="Scanning Page" src="https://github.com/user-attachments/assets/c0465d07-b40d-46a7-9319-05041b377547" />
+
 # About Page:
 <img width="430" height="762" alt="About Page" src="https://github.com/user-attachments/assets/f1ec6937-7e2b-4f58-9fba-b0a1a1ce0bf6" />
+
 
 
 ## 📌 Project Overview & Problem Statement
